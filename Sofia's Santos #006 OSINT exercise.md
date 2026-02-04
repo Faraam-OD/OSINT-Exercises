@@ -84,4 +84,4 @@ The context behind the photo is distinctly different, and is described as follow
 
 P.S. This is my first OSINT exercise. Thank you again Sofia for providing us with this support to learn and improve in this incredible field of OSINT.
 
-<u>made on April 4, 2025</u>
+`made on April 4, 2025`
