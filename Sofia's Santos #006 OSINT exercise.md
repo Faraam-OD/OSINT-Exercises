@@ -3,10 +3,10 @@
 `made on April 4, 2025`
 
 ### Task briefing:
-On January 19, 2023, a journalist with almost 140k followers on Twitter shared an image of a destroyed vehicle amidst a large cloud of smoke and fire. The tweet said: "BREAKING: TTP carried out a suicide attack on a police post in Khyber city of Pakistan that killed three Pakistani police officers."
+On January 19, 2023, a journalist with almost 140k followers on Twitter shared an image of a destroyed vehicle amidst a large cloud of smoke and fire. The tweet said: **"BREAKING: TTP carried out a suicide attack on a police post in Khyber city of Pakistan that killed three Pakistani police officers."**
 
 The photo is not of the event described by the journalist.  
-a) Verify the statement above.
+**a) Verify the statement above.**
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5b361089-6327-4d06-a62f-9c955d0610ec" width="600" />
