@@ -32,29 +32,29 @@ The first thing to do is to perform a reverse image search. To do this, we will 
     <img src="https://github.com/user-attachments/assets/12fb577e-164a-421a-b9e4-0a2521ca9d7b" width="600" />
 </p>
 
-You’ll come across hundreds of results. A huge number of sites containing this image. However, you must be careful not to factualize from just any site. We need to identify a few “safe” sites that have a certain public legitimacy.
+You’ll come across hundreds of results. A huge number of sites containing this image. However, you must be careful not to factualize from just any site. We need to identify a few "safe" sites that have a certain public legitimacy.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/01c798a1-bb60-4900-b46f-2fcf7938617b" width="600" />
 </p>
 
-Already, on the first page, the first two results that host this photo are; alamy.com (which is a media library offering a diverse range of photos, videos and archive content) and a Wikipedia England source.
+Already, on the first page, the first two results that host this photo are; **alamy.com** (which is a media library offering a diverse range of photos, videos and archive content) and a **Wikipedia** England source.
 
 Now let's check whether these two seemingly "safe" sources indicate the same date and context.
 
-* For **alamy.com**, the photo was taken on August 27, 2006.
+* For **alamy.com**, the photo was taken on **August 27, 2006**.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/99d7fb18-4364-40f6-a7e3-04c2cffc4d32" width="600" />
 </p>
 
-* For the **Wikipedia** link, we had to go down to the page entitled '**Al-Qaeda in Iraq**' and find the photo embedded in the text in the '**October 2006: AQI creates Islamic State of Iraq**'. Click on the small frame just below the picture to enlarge it. The 'More details' option will then appear in the bottom right-hand corner. Clicking on it gives access to the photo’s file information and metadata.
+* For the **Wikipedia** link, we had to go down to the page entitled '**Al-Qaeda in Iraq**' and find the photo embedded in the text in the '**October 2006: AQI creates Islamic State of Iraq**'. Click on the small frame just below the picture to enlarge it. The '**More details**' option will then appear in the bottom right-hand corner. Clicking on it gives access to the photo’s file information and metadata.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/3015d196-3062-42f1-94e2-b5027baf9d88" width="600" />
 </p>
 
-* We can see the description of the photo (its context), and the date it was taken. Which is also August 27, 2006.
+* We can see the description of the photo (its context), and the date it was taken. Which is also **August 27, 2006**.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ca47ac66-eacf-441f-a872-11d18f6ab81c" width="600" />
@@ -66,7 +66,7 @@ Now let's check whether these two seemingly "safe" sources indicate the same dat
     <img src="https://github.com/user-attachments/assets/5def8a39-2446-4529-aa18-152c725173c3" width="600" />
 </p>
 
-* I then opened the link named '***exact source***' in '***File information***'. But I came across a page with a 404 error.
+* I then opened the link named '***exact source***' in '**File information**'. But I came across a page with a 404 error.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5b89ad6a-d341-4370-9c4a-0dd90b9c2032" width="600" />
