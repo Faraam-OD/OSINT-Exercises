@@ -1,5 +1,7 @@
 # Sofia's Santos \#006 OSINT exercise
 
+`made on April 4, 2025`
+
 ### Task briefing:
 On January 19, 2023, a journalist with almost 140k followers on Twitter shared an image of a destroyed vehicle amidst a large cloud of smoke and fire. The tweet said: "BREAKING: TTP carried out a suicide attack on a police post in Khyber city of Pakistan that killed three Pakistani police officers."
 
@@ -83,5 +85,3 @@ The context behind the photo is distinctly different, and is described as follow
 <p align="center">∗ &nbsp;&nbsp;&nbsp; ∗ &nbsp;&nbsp;&nbsp; ∗</p>
 
 P.S. This is my first OSINT exercise. Thank you again Sofia for providing us with this support to learn and improve in this incredible field of OSINT.
-
-`made on April 4, 2025`
