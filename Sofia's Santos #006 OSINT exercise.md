@@ -2,6 +2,9 @@
 
 `made on April 4, 2025`
 
+<p align="center">∗ &nbsp;&nbsp;&nbsp; ∗ &nbsp;&nbsp;&nbsp; ∗</p>
+
+
 ### Task briefing:
 On January 19, 2023, a journalist with almost 140k followers on Twitter shared an image of a destroyed vehicle amidst a large cloud of smoke and fire. The tweet said: **"BREAKING: TTP carried out a suicide attack on a police post in Khyber city of Pakistan that killed three Pakistani police officers."**
 
@@ -23,7 +26,7 @@ Find the original photo, its date of publication and its context.
 To begin with, the description of the tweet refers to a terrorist attack carried out by the TTP in Pakistan in the city of Khyber, which killed three Pakistani police officers. The presumed date of this event is January 19, 2023 (date of publication of the tweet highlighting the #BREAKING, thus accentuating the immediate effect of the event).
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/87501081-ff5e-4063-98b4-6d7f8269eba1" width="600" />
+    <img src="https://github.com/user-attachments/assets/87501081-ff5e-4063-98b4-6d7f8269eba1" width="400" />
 </p>
 
 The first thing to do is to perform a reverse image search. To do this, we will use TinEyes. Copy the photo and paste it into the TinEyes search engine.
@@ -83,5 +86,3 @@ So we've just found the original source! So we were dealing with fake news in th
 The context behind the photo is distinctly different, and is described as follows: "A Vehicle Born Improvised Explosive Devise (VBIED) after exploding on a street outside of the Al Sabah newspaper office in the Waziryia district of Baghdad, Iraq. The VBIED destroyed more than 20 cars, killing two people and wounding as many as 30. U.S. Navy photo by Mass Communication Specialist 2nd Class Eli J. Medellin".
 
 <p align="center">∗ &nbsp;&nbsp;&nbsp; ∗ &nbsp;&nbsp;&nbsp; ∗</p>
-
-P.S. This is my first OSINT exercise. Thank you again Sofia for providing us with this support to learn and improve in this incredible field of OSINT.
