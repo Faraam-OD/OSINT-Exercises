@@ -1,6 +1,6 @@
 # Sofia's Santos \#024 OSINT exercise
 
-`made on February 20`
+`made on February 20, 2026`
 
 ### Task briefing
 
@@ -28,3 +28,5 @@ c) Photo 3
 <p align="center">
     <img src="https://github.com/user-attachments/assets/201975d6-69d0-43fb-87ce-e93bddfc2927" width="600" />
 </p>
+
+<p align="center">∗ &nbsp;&nbsp;&nbsp; ∗ &nbsp;&nbsp;&nbsp; ∗</p>
