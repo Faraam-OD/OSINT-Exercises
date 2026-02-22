@@ -56,11 +56,12 @@ Now let's see the results.
     <img src="https://github.com/user-attachments/assets/be8f23ac-9eb5-492d-a9ca-a1c5e43cecf4" />
 </p>
 
-So, that's quite a lot of information we have here.  
+So, that's quite a lot of information we have here.
+
 First of all, the article titles confirm my initial intuition that the photo was taken in **South America**, because, as indicated, it was taken in **Colombia**. We also have the group's initials, **ELN**. We can also see the badge on the right shoulder of some soldiers and, of course, the red and black scarf bearing the ELN logo.
 
-Pour avoir plus d'informations et sourcer notre investigation, nos allons croiser nos sources à partir de source connues et fiable. Nous allons nous servir des articles présents sur les sites suivants :
-- The Guardian ![(Source)](https://www.theguardian.com/world/2025/dec/12/colombia-eln-guerrilla-rebels-trump)
-- France 24 ![(Source)](https://www.france24.com/es/20190208-petroguerrilla-colombia-farc-proceso-paz)
-- Radio France International (RFI) ![(Source)](https://www.rfi.fr/en/international-news/20231116-in-the-colombian-jungle-with-eln-rebels)
-- The Global Network on Extremism and Technology (GNET) ![(Source)](https://gnet-research.org/2025/07/28/guerrillas-online-recruitment-propaganda-and-control-by-colombias-farc-ep-dissidents-and-eln/)
+To obtain more information and source our investigation, we will cross-reference our sources from known and reliable sources. We will use articles found on the following websites:
+- The Guardian [(Source)](https://www.theguardian.com/world/2025/dec/12/colombia-eln-guerrilla-rebels-trump)
+- France 24 [(Source)](https://www.france24.com/es/20190208-petroguerrilla-colombia-farc-proceso-paz)
+- Radio France International (RFI) [(Source)](https://www.rfi.fr/en/international-news/20231116-in-the-colombian-jungle-with-eln-rebels)
+- The Global Network on Extremism and Technology (GNET) [(Source)](https://gnet-research.org/2025/07/28/guerrillas-online-recruitment-propaganda-and-control-by-colombias-farc-ep-dissidents-and-eln/)
