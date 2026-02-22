@@ -85,10 +85,13 @@ First of all, we can see from the title that this is not a terrorist group but *
     <img src="https://github.com/user-attachments/assets/419b1740-9bb5-4ad9-8f94-cd0685796cd0" width="600" />
 </p>
 
-So, first of all, we know that the acronym ELN stands for (translated from Spanish) **National Liberation Army** and is the oldest guerrilla group in the Americas. This rebel group emerged from a left-wing nationalist ideology but became heavily involved in **drug trafficking** and even became **one of the most powerful organized crime groups**. We are told especially that Colombia is the world's leading producer of cannabis, according to the UN.
+So, first of all, we know that the acronym ELN stands for (translated from Spanish) **National Liberation Army** and is the **oldest guerrilla group in the Americas**. This rebel group emerged from a left-wing nationalist ideology but became heavily involved in **drug trafficking** and even became **one of the most powerful organized crime groups**. We are told especially that Colombia is the world's leading producer of cannabis, according to the UN.
 
 Furthermore, according to the article, this group would comprise approximately **5,800 fighters** and would be present **in more than a fifth of Colombia's 1,100-plus municipalities** according to the **Insight Crime research center**.
 
 Finally, what we are also told is that Trump has them in his sights because, in addition to being the largest criminal group in the Americas, they are allegedly **linked to the Maduro regime** (Venezuelan president). Their ties to the Venezuelan dictator's regime (who is now being held in the United States after an unprecedented kidnapping operation by the US on January 3 this year) allow them to **strengthen their territorial and political influence and control in Colombia**.
 
 So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm for the moment that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
+
+### France 24
+
