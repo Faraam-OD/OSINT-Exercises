@@ -36,10 +36,10 @@ To begin with, the first thing that comes to mind are the patterns that are visi
 </p>
 
 In this first photo, the identifying features are as follows:  
-1. the red and black scarves that these soldiers wear to hide the lower part of their faces,  
-2. the barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter  
-3. a kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
-4. Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
+**1.** The red and black scarves that these soldiers wear to hide the lower part of their faces,  
+**2.** The barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter  
+**3.** A kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
+**4.** Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
 
 So, the first places I'm leaning towards are either **South America** (Colombia, Venezuela, Brazil) or **Southeast Asia** (Cambodia, Vietnam, Indonesia). What we are going to do now is perform a **reverse image search**. We will see if Google recognizes certain patterns and if it can lead us to more information. To do this, I'll just go to Google Images and upload the photo.
 
@@ -47,7 +47,7 @@ So, the first places I'm leaning towards are either **South America** (Colombia,
     <img src="https://github.com/user-attachments/assets/cd2b4158-c70d-47df-aa98-7d4a8edff638" />
 </p>
 
-Now let's see the results.
+**Now let's see the results.**
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/49a1465a-6eca-4db3-a2bd-050b531f6adc" />
