@@ -35,11 +35,11 @@ To begin with, the first thing that comes to mind are the patterns that are visi
     <img src="https://github.com/user-attachments/assets/d388763a-59eb-45ff-ab1f-6d903a05a1f0" width="600" />
 </p>
 
-In this first photo, the identifying features are as follows:  
-**1.** The red and black scarves that these soldiers wear to hide the lower part of their faces,  
-**2.** The barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter  
-**3.** A kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
-**4.** Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
+In this first photo, the identifying features are as follows: 
+1. The red and black scarves that these soldiers wear to hide the lower part of their faces,
+2. The barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter
+3. A kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
+4. Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
 
 So, the first places I'm leaning towards are either **South America** (Colombia, Venezuela, Brazil) or **Southeast Asia** (Cambodia, Vietnam, Indonesia). What we are going to do now is perform a **reverse image search**. We will see if Google recognizes certain patterns and if it can lead us to more information. To do this, I'll just go to Google Images and upload the photo.
 
