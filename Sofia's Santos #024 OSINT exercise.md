@@ -70,7 +70,7 @@ To obtain more information and source our investigation, we will cross-reference
 - Radio France International (RFI) [(Source)](https://www.rfi.fr/en/international-news/20231116-in-the-colombian-jungle-with-eln-rebels)
 - The Global Network on Extremism and Technology (GNET) [(Source)](https://gnet-research.org/2025/07/28/guerrillas-online-recruitment-propaganda-and-control-by-colombias-farc-ep-dissidents-and-eln/)
 
-### For The Guardian:
+### From The Guardian:
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/c09a32ab-bfab-4f5e-a197-cbb93dcbbd23" width="600" />
@@ -93,7 +93,7 @@ Finally, what we are also told is that Trump has them in his sights because, in 
 
 So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm for the moment that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
 
-### France 24:
+### From France 24:
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5df71b12-f1b9-4e02-92c0-db7b1ff7a788" width="600" />
