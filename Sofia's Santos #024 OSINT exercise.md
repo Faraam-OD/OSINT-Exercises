@@ -54,47 +54,37 @@ So, the first places I'm leaning towards are either **South America** (Colombia,
 **Now let's see the results.**
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/49a1465a-6eca-4db3-a2bd-050b531f6adc" />
+    <img src="https://github.com/user-attachments/assets/dd98076e-e32e-421e-a035-f970d38f20ee" />
 </p>
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c90e2f57-93b9-460b-b576-f35f87275ffe" />
+    <img src="https://github.com/user-attachments/assets/d9a89ef5-a802-4eae-9bf7-fc05b64f31bd" />
 </p>
 
 Okay, that's some interesting information we have there.
 
 First of all, the article titles confirm my initial intuition that the photo was taken in **South America**, because, as indicated, it was taken in **Colombia**. We also have the group's initials, **ELN**. We can also see the badge on the right shoulder of some soldiers and, of course, the red and black scarf bearing the ELN logo.
 
-To obtain more information and source our investigation, we will cross-reference our sources from known and reliable sources. We will use articles found on the following websites:
+We will collect information for our survey from trow different sources. These will be as follows:
 - The Guardian [(Source)](https://www.theguardian.com/world/2025/dec/12/colombia-eln-guerrilla-rebels-trump)
-- France 24 [(Source)](https://www.france24.com/es/20190208-petroguerrilla-colombia-farc-proceso-paz)
 - Radio France International (RFI) [(Source)](https://www.rfi.fr/en/international-news/20231116-in-the-colombian-jungle-with-eln-rebels)
-- The Global Network on Extremism and Technology (GNET) [(Source)](https://gnet-research.org/2025/07/28/guerrillas-online-recruitment-propaganda-and-control-by-colombias-farc-ep-dissidents-and-eln/)
 
-### From The Guardian:
-
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/c09a32ab-bfab-4f5e-a197-cbb93dcbbd23" width="600" />
-</p>
-
-First of all, we can see from the title that this is not a terrorist group but **rebels**. And that there is a connection with the current US president, Donald Trump. Let's see what the article has to say that is relevant and that we could highlight.
+### From The Guardian – December 12, 2025
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c8e42f2b-1e28-4479-abce-1700ad98929c" width="600" />
-</p>
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/419b1740-9bb5-4ad9-8f94-cd0685796cd0" width="600" />
+    <img src="https://github.com/user-attachments/assets/f6993ba3-70a4-4f48-a004-3872c1c82bfd" width="600" />
 </p>
 
-So, first of all, we know that the acronym ELN stands for (translated from Spanish) **National Liberation Army** and is the **oldest guerrilla group in the Americas**. This rebel group emerged from a left-wing nationalist ideology but became heavily involved in **drug trafficking** and even became **one of the most powerful organized crime groups**. We are told especially that Colombia is the world's leading producer of cannabis, according to the UN.
+The ELN (Ejército de Liberación Nacional) is the **oldest guerrilla group still active in the Americas**, with around **5,800 fighters** and a presence in more than a **fifth of Colombia's municipalities**. Claiming to espouse a **left-wing nationalist ideology**, it is nevertheless deeply involved in **drug trafficking** and the control of **coca plantations**. Despite five attempts at peace negotiations with successive governments—all of which have failed—the group continues to intensify its armed operations, including in response to threats of US intervention made by Trump in early 2025.
 
-Furthermore, according to the article, this group would comprise approximately **5,800 combatants** and would be present **in more than a fifth of Colombia's 1,100-plus municipalities** according to the **Insight Crime research center**.
-
-Finally, what we are also told is that Trump has them in his sights because, in addition to being the **largest criminal group in the Americas**, they are allegedly **linked to the Maduro regime** (Venezuelan president). Their ties to the Venezuelan dictator's regime (who is now being held in the United States after an unprecedented kidnapping operation by the US on January 3 this year) allow them to **strengthen their territorial and political influence and control in Colombia**.
+The Guardian points out that the ELN has been able to adapt to military and political pressure by modulating its actions, sometimes violent, sometimes negotiated, allowing it to **maintain its influence despite decades of conflict**.
 
 So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm for the moment that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
 
-### From France 24:
+### From RFI/AFP – November 16, 2023
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5df71b12-f1b9-4e02-92c0-db7b1ff7a788" width="600" />
+    <img src="https://github.com/user-attachments/assets/8126e09b-9497-4bb8-af65-22d5f2f45216" width="600" />
 </p>
+
+The ELN is a **decentralized organization**, composed mainly of **Afro-Colombian** and **indigenous members**, whose stated goal is to establish a “**democratic government for the people**” — with nationalization of industries and redistribution of land. Founded in **1964**, the group is now the last of its generation still active after the demobilization of the **FARC** (Revolutionary Armed Forces of Colombia) in 2016. Despite a ceasefire agreement with the Petro government, violations of the truce have been documented, and financing through kidnappings remains a reality that the organization struggles to completely deny.
+
