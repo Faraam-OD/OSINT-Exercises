@@ -88,7 +88,7 @@ The ELN is a **decentralized organization**, composed mainly of **Afro-Colombian
 
 ### Conclusion Photo 1
 
-So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
+So, to summarize here, the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the people in the **first photo** have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
 
 <br>
 
