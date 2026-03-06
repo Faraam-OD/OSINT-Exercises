@@ -64,7 +64,7 @@ Okay, that's some interesting information we have there.
 
 First of all, the article titles confirm my initial intuition that the photo was taken in **South America**, because, as indicated, it was taken in **Colombia**. We also have the group's initials, **ELN**. We can also see the badge on the right shoulder of some soldiers and, of course, the red and black scarf bearing the ELN logo.
 
-We will collect information for our survey from trow different sources. These will be as follows:
+We will collect information for our survey from two different sources. These will be as follows:
 - The Guardian [(Source)](https://www.theguardian.com/world/2025/dec/12/colombia-eln-guerrilla-rebels-trump)
 - Radio France International (RFI) [(Source)](https://www.rfi.fr/en/international-news/20231116-in-the-colombian-jungle-with-eln-rebels)
 
@@ -78,8 +78,6 @@ The ELN (Ejército de Liberación Nacional) is the **oldest guerrilla group stil
 
 The Guardian points out that the ELN has been able to adapt to military and political pressure by modulating its actions, sometimes violent, sometimes negotiated, allowing it to **maintain its influence despite decades of conflict**.
 
-So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm for the moment that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
-
 ### From RFI/AFP – November 16, 2023
 
 <p align="center">
@@ -87,4 +85,12 @@ So, to summarize here with our first source the key points to remember regarding
 </p>
 
 The ELN is a **decentralized organization**, composed mainly of **Afro-Colombian** and **indigenous members**, whose stated goal is to establish a “**democratic government for the people**” — with nationalization of industries and redistribution of land. Founded in **1964**, the group is now the last of its generation still active after the demobilization of the **FARC** (Revolutionary Armed Forces of Colombia) in 2016. Despite a ceasefire agreement with the Petro government, violations of the truce have been documented, and financing through kidnappings remains a reality that the organization struggles to completely deny.
+
+### Conclusion Photo 1
+
+So, to summarize here with our first source the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the people in the first photo have pledged allegiance to the **ELN**, a **Colombian criminal rebel group**.
+
+<br>
+
+## Photo 2
 
