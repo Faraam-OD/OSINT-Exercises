@@ -71,7 +71,7 @@ We will collect information for our survey from two different sources. These wil
 ### From The Guardian – December 12, 2025
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/f6993ba3-70a4-4f48-a004-3872c1c82bfd" width="600" />
+    <img src="https://github.com/user-attachments/assets/f6993ba3-70a4-4f48-a004-3872c1c82bfd" />
 </p>
 
 The ELN (Ejército de Liberación Nacional) is the **oldest guerrilla group still active in the Americas**, with around **5,800 fighters** and a presence in more than a **fifth of Colombia's municipalities**. Claiming to espouse a **left-wing nationalist ideology**, it is nevertheless deeply involved in **drug trafficking** and the control of **coca plantations**. Despite five attempts at peace negotiations with successive governments—all of which have failed—the group continues to intensify its armed operations, including in response to threats of US intervention made by Trump in early 2025.
@@ -81,7 +81,7 @@ The Guardian points out that the ELN has been able to adapt to military and poli
 ### From RFI/AFP – November 16, 2023
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8126e09b-9497-4bb8-af65-22d5f2f45216" width="600" />
+    <img src="https://github.com/user-attachments/assets/8126e09b-9497-4bb8-af65-22d5f2f45216" />
 </p>
 
 The ELN is a **decentralized organization**, composed mainly of **Afro-Colombian** and **indigenous members**, whose stated goal is to establish a “**democratic government for the people**” — with nationalization of industries and redistribution of land. Founded in **1964**, the group is now the last of its generation still active after the demobilization of the **FARC** (Revolutionary Armed Forces of Colombia) in 2016. Despite a ceasefire agreement with the Petro government, violations of the truce have been documented, and financing through kidnappings remains a reality that the organization struggles to completely deny.
@@ -94,3 +94,6 @@ So, to summarize here with our first source the key points to remember regarding
 
 ## Photo 2
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5e4bd707-5563-4c78-bd32-9c0dd6452bd6" />
+</p>
