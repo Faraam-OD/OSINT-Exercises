@@ -130,6 +130,9 @@ After a quick search on what **YJA Star** is, I came across the Wikipedia page e
 <p align="center">
     <img src="https://github.com/user-attachments/assets/78ad8333-2f9b-49b7-bcfd-301ca5fb9fe4" />
 </p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2589295f-5c9b-4ce9-ad69-e18679afb210" />
+</p>
 
 As we can read on the introduction page, YJA STAR "was" the **female armed wing of the Kurdistan Workers' Party (PKK)**. Their feminist and socialist ideology confirms their desire for women's emancipation, which is manifested by their long hair, considered a sign of non-submission.
 
