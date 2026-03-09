@@ -136,7 +136,7 @@ After a quick search on what **YJA Star** is, I came across the Wikipedia page e
 
 As we can read on the introduction page, YJA STAR "was" the **female armed wing of the Kurdistan Workers' Party (PKK)**. Their feminist and socialist ideology confirms their desire for women's emancipation, which is manifested by their long hair, considered a sign of non-submission.
 
-However, we do not find on this Wikipedia page the exact logo that we see on the weapon's coating in the source image. To do this, let's dig a little deeper into what the PKK is, since YJA STAR is linked to this group. By clicking on the hyperlink “Kurdistan Workers' Party” in the second line, we are taken to the PKK's Wikipedia page. We should have more information and details about this logo.
+However, we do not find on this Wikipedia page the exact logo that we see on the weapon's coating in the source image. To do this, let's dig a little deeper into what the PKK is, since YJA STAR is linked to this group. By clicking on the hyperlink "**Kurdistan Workers' Party**" in the second line, we are taken to the PKK's Wikipedia page. We should have more information and details about this logo.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/73fd7e91-a80b-400e-acab-22efeb187b5f" />
@@ -144,11 +144,11 @@ However, we do not find on this Wikipedia page the exact logo that we see on the
 
 First, we can see the group's flag, which looks identical to the logo on the weapon's coating in the source image. It is now necessary to explain what the PKK is, its ideologies and objectives, and the link between YJA STAR and the PKK.
 
-So, the Kurdistan Workers’ Party (PKK) emerged in the late 1970s among Kurdish activists in Turkey. Originally founded as a Marxist-Leninist guerrilla movement, its early goal was to create an independent Kurdish state carved out of Turkey, Iraq, Iran, and Syria. Over time, its ideology shifted: today the PKK publicly promotes “democratic confederalism,” a system emphasizing Kurdish autonomy, local self-government, gender equality, and grassroots democracy rather than a traditional nation-state.
+So, the Kurdistan Workers' Party (PKK) emerged in the late 1970s among Kurdish activists in Turkey. Originally founded as a Marxist-Leninist guerrilla movement, its early goal was to create an independent Kurdish state carved out of Turkey, Iraq, Iran, and Syria. Over time, its ideology shifted: today the PKK publicly promotes "democratic confederalism", a system emphasizing Kurdish autonomy, local self-government, gender equality, and grassroots democracy rather than a traditional nation-state.
 
 Its objectives remain rooted in the political and cultural rights of Kurds, particularly in Turkey, where the group has waged an armed insurgency since 1984. The conflict has made the PKK one of the most controversial Kurdish movements in the region—viewed by supporters as a resistance organization and by Turkey, the EU, and the United States as a terrorist group.
 
-Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement’s strong emphasis on women’s liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women’s military wing aligned with the PKK’s command and ideology, reflecting the group’s belief that Kurdish liberation and women’s emancipation are inseparable.
+Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement's strong emphasis on women's liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women's military wing aligned with the PKK's command and ideology, reflecting the group's belief that Kurdish liberation and women's emancipation are inseparable.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" />
