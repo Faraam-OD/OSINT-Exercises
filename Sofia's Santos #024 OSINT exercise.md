@@ -97,3 +97,61 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5e4bd707-5563-4c78-bd32-9c0dd6452bd6" />
 </p>
+
+In this second photo, the elements that can be identified are as follows:
+1. It is a woman.
+2. She has long hair, which could suggest a strong identity with the group she is fighting for.
+3. A logo featuring a red star in a yellow circle, itself outlined by a red border.
+
+The first thought that comes to mind, based on the few details available, is that the female soldier in this photo resembles members of the **Kurdish armed groups**, one branch of which consists **solely of women**. But before putting forward any hypotheses, we will investigate to find out which group the person in this photo belongs to.
+
+To begin with, we will once again perform a reverse image search.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/125be334-960a-4c2b-a55c-3e93da6147a1" />
+</p>
+
+**Now let's see the results.**
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c0d35fd0-d54a-4cce-ae8a-d727b21c25b2" />
+</p>
+
+Here, we have few results. The rest of the sources presented to us have no connection with the image we have.
+
+When we open the [ANF News source](https://anfenglishmobile.com/kurdIstan/zap-ta-yja-star-eylemi-1-isgalci-cezalandirildi-197446), we find an article entitled: "**YJA Star action in Zap: 1 occupier punished**" with the following description : "*HPG Press Liaison Center (HPG-BİM) announced that an invader was punished in the action organized by YJA Star against the Turkish army in the Western Zap region.*". This article presents the "*written statement by the HPG-BİM, which provides details on the actions carried out by the guerrillas and the attacks perpetrated by the invaders.*". But let's not get too far ahead of ourselves just yet. The first thing to remember is the unknown variable in the title: **YJA Star**.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e67e013b-2eac-4278-a92b-bca52b5307a0" />
+</p>
+
+After a quick search on what **YJA Star** is, I came across the Wikipedia page explaining what this acronym stands for in English, namely **Free Women's Units**.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/78ad8333-2f9b-49b7-bcfd-301ca5fb9fe4" />
+</p>
+
+As we can read on the introduction page, YJA STAR "was" the **female armed wing of the Kurdistan Workers' Party (PKK)**. Their feminist and socialist ideology confirms their desire for women's emancipation, which is manifested by their long hair, considered a sign of non-submission.
+
+However, we do not find on this Wikipedia page the exact logo that we see on the weapon's coating in the source image. To do this, let's dig a little deeper into what the PKK is, since YJA STAR is linked to this group. By clicking on the hyperlink “Kurdistan Workers' Party” in the second line, we are taken to the PKK's Wikipedia page. We should have more information and details about this logo.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/73fd7e91-a80b-400e-acab-22efeb187b5f" />
+</p>
+
+First, we can see the group's flag, which looks identical to the logo on the weapon's coating in the source image. It is now necessary to explain what the PKK is, its ideologies and objectives, and the link between YJA STAR and the PKK.
+
+So, the Kurdistan Workers’ Party (PKK) emerged in the late 1970s among Kurdish activists in Turkey. Originally founded as a Marxist-Leninist guerrilla movement, its early goal was to create an independent Kurdish state carved out of Turkey, Iraq, Iran, and Syria. Over time, its ideology shifted: today the PKK publicly promotes “democratic confederalism,” a system emphasizing Kurdish autonomy, local self-government, gender equality, and grassroots democracy rather than a traditional nation-state.
+
+Its objectives remain rooted in the political and cultural rights of Kurds, particularly in Turkey, where the group has waged an armed insurgency since 1984. The conflict has made the PKK one of the most controversial Kurdish movements in the region—viewed by supporters as a resistance organization and by Turkey, the EU, and the United States as a terrorist group.
+
+Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement’s strong emphasis on women’s liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women’s military wing aligned with the PKK’s command and ideology, reflecting the group’s belief that Kurdish liberation and women’s emancipation are inseparable.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" />
+</p>
+
+### Conclusion Photo 2
+
+So, to summarize here, the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the person in the **second photo** have pledged allegiance to the **PKK**, by being a member of the **YJA STAR** branch.
+
