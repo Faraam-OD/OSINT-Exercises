@@ -119,7 +119,7 @@ To begin with, we will once again perform a reverse image search.
 
 Here, we have few results. The rest of the sources presented to us have no connection with the image we have.
 
-When we open the [ANF News source](https://anfenglishmobile.com/kurdIstan/zap-ta-yja-star-eylemi-1-isgalci-cezalandirildi-197446), we find an article entitled: "**YJA Star action in Zap: 1 occupier punished**" with the following description : "*HPG Press Liaison Center (HPG-BİM) announced that an invader was punished in the action organized by YJA Star against the Turkish army in the Western Zap region.*". This article presents the "*written statement by the HPG-BİM, which provides details on the actions carried out by the guerrillas and the attacks perpetrated by the invaders.*". But let's not get too far ahead of ourselves just yet. The first thing to remember is the unknown variable in the title: **YJA Star**.
+When we open the first [ANF News](https://anfenglishmobile.com/kurdIstan/zap-ta-yja-star-eylemi-1-isgalci-cezalandirildi-197446) source, we find an article entitled: "**YJA Star action in Zap: 1 occupier punished**" with the following description : "*HPG Press Liaison Center (HPG-BİM) announced that an invader was punished in the action organized by YJA Star against the Turkish army in the Western Zap region.*". This article presents the "*written statement by the HPG-BİM, which provides details on the actions carried out by the guerrillas and the attacks perpetrated by the invaders.*". But let's not get too far ahead of ourselves just yet. The first thing to remember is the unknown variable in the title: **YJA Star**.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e67e013b-2eac-4278-a92b-bca52b5307a0" />
