@@ -95,7 +95,7 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 ## Photo 2
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5e4bd707-5563-4c78-bd32-9c0dd6452bd6" />
+    <img src="https://github.com/user-attachments/assets/5e4bd707-5563-4c78-bd32-9c0dd6452bd6" width="600" />
 </p>
 
 In this second photo, the elements that can be identified are as follows:
@@ -151,7 +151,7 @@ Its objectives remain rooted in the political and cultural rights of Kurds, part
 Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement's strong emphasis on women's liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women's military wing aligned with the PKK's command and ideology, reflecting the group's belief that Kurdish liberation and women's emancipation are inseparable.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" />
+    <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" width="600" />
 </p>
 
 ### Conclusion Photo 2
