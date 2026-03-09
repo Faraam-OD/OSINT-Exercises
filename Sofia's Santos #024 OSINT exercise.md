@@ -40,10 +40,10 @@ To begin with, the first thing that comes to mind are the patterns that are visi
 </p>
 
 In this first photo, the identifying features are as follows: 
-1. The red and black scarves that these soldiers wear to hide the lower part of their faces,
-2. The barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter
-3. A kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
-4. Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
+**1.** The red and black scarves that these soldiers wear to hide the lower part of their faces,
+**2.** The barely visible emblem on the right shoulder of the soldier in the foreground. It is very difficult to make out what it is, but it reveals a white circle around the edge of the emblem and a horizontal line on the lower part of the logo that spans its entire diameter
+**3.** A kind of emblem epaulette made of fabric, on which the initials of their group are probably inscribed. In any case, we can see an N, which must be the last letter of their group's initials. Most likely the same scarf worn over their faces here is hanging from the left arm of the soldier on the right. We can see the inscription.
+**4.** Given the vegetation in the background, the image must have been taken in a region of the globe with a humid climate and therefore likely to include jungles or other dense forests.
 
 So, the first places I'm leaning towards are either **South America** (Colombia, Venezuela, Brazil) or **Southeast Asia** (Cambodia, Vietnam, Indonesia). What we are going to do now is perform a **reverse image search**. We will see if Google recognizes certain patterns and if it can lead us to more information. To do this, I'll just go to Google Images and upload the photo.
 
@@ -99,9 +99,9 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 </p>
 
 In this second photo, the elements that can be identified are as follows:
-1. It is a woman.
-2. She has long hair, which could suggest a strong identity with the group she is fighting for.
-3. A logo featuring a red star in a yellow circle, itself outlined by a red border.
+**1.** It is a woman.
+**2.** She has long hair, which could suggest a strong identity with the group she is fighting for.
+**3.** A logo featuring a red star in a yellow circle, itself outlined by a red border.
 
 The first thought that comes to mind, based on the few details available, is that the female soldier in this photo resembles members of the **Kurdish armed groups**, one branch of which consists **solely of women**. But before putting forward any hypotheses, we will investigate to find out which group the person in this photo belongs to.
 
@@ -158,3 +158,6 @@ Linked to the PKK is YJA Star, an all-female guerrilla force operating within th
 
 So, to summarize here, the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the person in the **second photo** have pledged allegiance to the **PKK**, by being a member of the **YJA STAR** branch.
 
+<br>
+
+## Photo 3
