@@ -151,7 +151,7 @@ Its objectives remain rooted in the political and cultural rights of Kurds, part
 Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement's strong emphasis on women's liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women's military wing aligned with the PKK's command and ideology, reflecting the group's belief that Kurdish liberation and women's emancipation are inseparable.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" width="600" />
+    <img src="https://github.com/user-attachments/assets/7906bdf9-f2fe-452e-a1b3-8e6e47e9d6bd" width="800" />
 </p>
 
 ### Conclusion Photo 2
@@ -161,3 +161,7 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 <br>
 
 ## Photo 3
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/00296ba6-44b8-462c-8616-c31cdf58c33d" width="600" />
+</p>
