@@ -14,17 +14,17 @@ c) Photo 3
 
 <p align="center">Photo 1</p>  
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/abc88043-acce-478b-b115-5dc2e08e5114" width="600" />
+    <img src="https://github.com/user-attachments/assets/5befa9f3-8281-402e-b20e-6c8f23770040" width="600" />
 </p>
 
 <p align="center">Photo 2</p>  
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/782c5ed6-314e-49a4-8c00-06b1e5784418" width="600" />
+    <img src="https://github.com/user-attachments/assets/013c4c45-108f-4b0d-a8ca-66ed014c6ac0" width="600" />
 </p>
 
 <p align="center">Photo 3</p>  
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/201975d6-69d0-43fb-87ce-e93bddfc2927" width="600" />
+    <img src="https://github.com/user-attachments/assets/93d30eaa-dd11-4507-b7eb-21c380924997" width="600" />
 </p>
 
 <br>
@@ -54,10 +54,10 @@ So, the first places I'm leaning towards are either **South America** (Colombia,
 **Now let's see the results.**
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/dd98076e-e32e-421e-a035-f970d38f20ee" />
+    <img src="https://github.com/user-attachments/assets/420702b2-d8a5-4931-9678-ae07f53be62b" />
 </p>
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/d9a89ef5-a802-4eae-9bf7-fc05b64f31bd" />
+    <img src="https://github.com/user-attachments/assets/e0e68a81-d28f-49c1-b528-c45a69a631e3" />
 </p>
 
 Okay, that's some interesting information we have there.
@@ -114,7 +114,7 @@ To begin with, we will once again perform a reverse image search.
 **Now let's see the results.**
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c0d35fd0-d54a-4cce-ae8a-d727b21c25b2" />
+    <img src="https://github.com/user-attachments/assets/31aa3413-7cc6-42ff-9ea9-724fca0d9330" />
 </p>
 
 Here, we have few results. The rest of the sources presented to us have no connection with the image we have.
@@ -165,3 +165,57 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 <p align="center">
     <img src="https://github.com/user-attachments/assets/00296ba6-44b8-462c-8616-c31cdf58c33d" width="600" />
 </p>
+
+In searching for this third and final photo, here are the identifying features we can note:
+1. A black and white flag in the background, with inscriptions written in Arabic
+2. The individuals in the photo are all wearing the same clothing accessories (black shemagh, dark T-shirt)
+
+For the moment, these clues suggest that this is an Islamist group, as these are the codes/characteristics of most such groups. But let's investigate further to find out the identity of the group to which these individuals have pledged allegiance.
+
+As usual, we will first perform a reverse image search.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/42fac30c-cbf4-445d-9ecc-0a61b070d45d" width="600" />
+</p>
+
+**Now let's see the results.**
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/3f4e9d7d-3e07-4f3e-847f-777c3b524024" width="600" />
+</p>
+
+As I imagined, given the lack of notable details, and the only relevant one we have being this flag, due to the poor quality of the image and the tiny size of the flag, we have no conclusive results.
+
+I looked through the sources that came up in this reverse image search, and none of them were relevant. The only ones I found that might have led to a clue were sources dealing with ISIS, but none of the leads could be pursued. So what we're going to do here is simply type the characteristics of this flag into Google, since that's our only really distinctive clue. We may get some results that could at least lead us down a path.
+
+And here's what I found when I typed “**black flag with white triangle terrorists**” into Google's search bar:
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/96bde863-d0fd-4e13-bd42-4ec1ca225be6" width="600" />
+</p>
+
+The first image closely resembles the characteristics of the flag in our photo. The title of the post containing this image is “**Flag of ‘Jaish ul-Adl’ (Army of Justice), a Jihadist Terrorist Group in Iran.**”
+
+When I searched for “**Jaish ul-Adl**” on Google, I came across various results showing the same flag from different angles.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/cafee5dc-1329-4ea1-8b49-0cfb2d57be5d" width="600" />
+</p>
+
+Taking the following source from our search results: [AFINTL](https://www.afintl.com/en/202312180655) (Afghanistan International)
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/39c22375-404e-4c7f-9ee0-167e4fe698b5" width="600" />
+</p>
+
+The article tells us that **Jaish ul-Adl**, or “**Army of Justice**,” is a **Sunni Islamist group opposed to the Islamic Republic of Iran**. It presents itself as the defender of Sunni rights, particularly in the Iranian province of Sistan and Baluchistan, where this minority denounces discrimination. The group, responsible for deadly attacks such as the one against a police station in Rask in December 2023 (12 Iranian police officers killed), is accused by Tehran of operating from bases in Pakistan and even Afghanistan, with the support of the Taliban.
+
+According to the Iranian daily *Jomhouri-e Eslami*, the Afghan Taliban provide logistical and political support to Jaish ul-Adl, while also harboring other armed groups. This collaboration is taking place against a backdrop of regional tensions, with Iran and Pakistan using the mass deportation of Afghans as leverage against Kabul. Former Afghan officials, such as Rahmatullah Nabil, confirm links between the Taliban and Jaish ul-Adl, particularly during the capture of Nimroz province in 2021.
+
+La situation illustre une région où alliances et rivalités se croisent, risquant d’aggraver l’instabilité si les talibans renforcent leur soutien à des groupes hostiles à l’Iran.
+
+### Conclusion Photo 3
+
+So, to summarize here, the key points to remember regarding the exercise: ***"Your task is to identify to which group they have pledged their allegiance"***, we can confirm that the individuals in this photo have pledged allegiance to the Sunni Islamist group **Jaish ul-Adl**.
+
+<p align="center">∗ &nbsp;&nbsp;&nbsp; ∗ &nbsp;&nbsp;&nbsp; ∗</p>
