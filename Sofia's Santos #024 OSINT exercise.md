@@ -188,15 +188,15 @@ As I imagined, given the lack of notable details, and the only relevant one we h
 
 I looked through the sources that came up in this reverse image search, and none of them were relevant. The only ones I found that might have led to a clue were sources dealing with ISIS, but none of the leads could be pursued. So what we're going to do here is simply type the characteristics of this flag into Google, since that's our only really distinctive clue. We may get some results that could at least lead us down a path.
 
-And here's what I found when I typed “**black flag with white triangle terrorists**” into Google's search bar:
+And here's what I found when I typed "**black flag with white triangle terrorists**" into Google's search bar:
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/96bde863-d0fd-4e13-bd42-4ec1ca225be6" />
 </p>
 
-The first image closely resembles the characteristics of the flag in our photo. The title of the post containing this image is “**Flag of ‘Jaish ul-Adl’ (Army of Justice), a Jihadist Terrorist Group in Iran.**”
+The first image closely resembles the characteristics of the flag in our photo. The title of the post containing this image is "**Flag of ‘Jaish ul-Adl’ (Army of Justice), a Jihadist Terrorist Group in Iran.**"
 
-When I searched for “**Jaish ul-Adl**” on Google, I came across various results showing the same flag from different angles.
+When I searched for "**Jaish ul-Adl**" on Google, I came across various results showing the same flag from different angles.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/cafee5dc-1329-4ea1-8b49-0cfb2d57be5d" />
@@ -208,11 +208,11 @@ Taking the following source from our search results: [AFINTL](https://www.afintl
     <img src="https://github.com/user-attachments/assets/39c22375-404e-4c7f-9ee0-167e4fe698b5" />
 </p>
 
-The article tells us that **Jaish ul-Adl**, or “**Army of Justice**,” is a **Sunni Islamist group opposed to the Islamic Republic of Iran**. It presents itself as the defender of Sunni rights, particularly in the Iranian province of Sistan and Baluchistan, where this minority denounces discrimination. The group, responsible for deadly attacks such as the one against a police station in Rask in December 2023 (12 Iranian police officers killed), is accused by Tehran of operating from bases in Pakistan and even Afghanistan, with the support of the Taliban.
+The article tells us that **Jaish ul-Adl**, or "**Army of Justice**," is a **Sunni Islamist group opposed to the Islamic Republic of Iran**. It presents itself as the defender of Sunni rights, particularly in the Iranian province of Sistan and Baluchistan, where this minority denounces discrimination. The group, responsible for deadly attacks such as the one against a police station in Rask in December 2023 (12 Iranian police officers killed), is accused by Tehran of operating from bases in Pakistan and even Afghanistan, with the support of the Taliban.
 
 According to the Iranian daily *Jomhouri-e Eslami*, the Afghan Taliban provide logistical and political support to Jaish ul-Adl, while also harboring other armed groups. This collaboration is taking place against a backdrop of regional tensions, with Iran and Pakistan using the mass deportation of Afghans as leverage against Kabul. Former Afghan officials, such as Rahmatullah Nabil, confirm links between the Taliban and Jaish ul-Adl, particularly during the capture of Nimroz province in 2021.
 
-La situation illustre une région où alliances et rivalités se croisent, risquant d’aggraver l’instabilité si les talibans renforcent leur soutien à des groupes hostiles à l’Iran.
+The situation illustrates a region where alliances and rivalries intersect, risking further instability if the Taliban strengthen their support for groups hostile to Iran.
 
 ### Conclusion Photo 3
 
