@@ -35,25 +35,25 @@ Tout d'abord, notons les éléments identificateurs que nous pouvons repérer :
     <img src="assets/step 1 - items identification.png" width="600" />
 </p>
 
-Nous avons plusieurs explicites qui peuvent nous permette de mener une piste sur le pays, voir même l'endroit (ville).
+Nous avons plusieurs explicites qui peuvent nous permettre de mener une piste sur le pays, voire même l'endroit (ville).
 
-- La plaque d'immatriculation des véhicule (toutes celels visibile disposent du "D" sur la matricule de gauche, pour "Deutshland" — Allemagne —.)
-- Les deux panneaux présents sur la surface de parking sont écris en allemand.
-- Le nom du restaurant/bar au milieu au fond de l'image (JP STOFFE)
+- La plaque d'immatriculation des véhicules (toutes celles visibles disposent du "D" sur la matricule de gauche, pour "Deutschland" — Allemagne —).  
+- Les deux panneaux présents sur la surface de parking sont écrits en allemand.  
+- Le nom du restaurant/bar au milieu au fond de l'image (JP STOFFE).
 
-Ne réussissant pas à trouver un pattern du département ou la ville à partir des plaques d'immatriculation, j'ai tout de suite chercher à partir du nom du restaurant. Et cela m'a en effet mener sur une piste.
+Ne réussissant pas à trouver un pattern du département ou de la ville à partir des plaques d'immatriculation, j'ai tout de suite cherché à partir du nom du restaurant. Et cela m'a en effet mené sur une piste.
 
 <p align="center">
     <img src="assets/step 2 - detail research.png" width="600" />
 </p>
 
-J'ai tout de suite chercher sur le résultat de Frankfurt (j'aurai très bien pu les chercher un par un étant donné qu'il n'est montré que 3 résultats).
+J'ai tout de suite cherché sur le résultat de Frankfurt (j'aurais très bien pu les chercher un par un étant donné qu'il n'est montré que 3 résultats).
 
 <p align="center">
     <img src="assets/step 2 - detail research2.png" width="600" />
 </p>
 
-Nous nous mettons en Street View pour regarder si l'espace autour de nous correspond à l'image source... et nous voyons alors que c'était bel et bien ici qu'a été prise la photo.
+Nous nous mettons en Street View pour regarder si l'espace autour de nous correspond à l'image source… et nous voyons alors que c'est bel et bien ici qu'a été prise la photo.
 
 <p align="center">
     <img src="assets/step 3 - flag.png" width="600" />
