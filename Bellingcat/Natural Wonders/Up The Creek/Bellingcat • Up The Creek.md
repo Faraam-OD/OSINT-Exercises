@@ -29,10 +29,23 @@ Les avions volent à des altitudes différentes, mais ce petit avion volait suff
 
 ### Analyse:
 
-Première chose à faire ici, bien entendu, c'est une recherche par image inversée Cependant, on obtient énormément de résultats ressemblants. En effet, des fleuves qui adoptent cette forme ondulaire, il y en a beaucoup. Pour cela, nous allons devoir prêter attention aux détails. Il se peut tout de même que l'on puisse trouver ce fleuve, mais à partir d'un autre angle de vue également.
+Tout d'abord, notons les éléments identificateurs que nous pouvons repérer :
+
+<p align="center">
+    <img src="assets/step 1 - items identification.jpg" width="600" />
+</p>
+
+Nous avons ici des éléments plus ou moins naturels qui nous permettent d'établir des patterns d'identifications :
+
+- Une triple courbe formant comme un "M" s'il est pris à ~65 degrés plus à l'est.  
+- Une délimitation rectangulaire de terres agricoles.  
+- Un petit pont.
+
+Première chose à faire ici, bien entendu, c'est une recherche par image inversée.
+
+Cependant, on obtient énormément de résultats ressemblants. En effet, des fleuves qui adoptent cette forme ondulaire, il y en a beaucoup. Pour cela, nous allons devoir prêter attention aux détails. Il se peut tout de même que l'on puisse trouver ce fleuve, mais à partir d'un autre angle de vue possiblement.
 
 Deux résultats ont retenu mon attention. Les voici :
-
 
 <p align="center">1ère source:</p>
 <p align="center">
@@ -72,11 +85,11 @@ Allons donc regarder sur Google Earth, vers Seattle, s'il y a un certain fleuve 
     <img src="assets/step 2 - second source extra geolocation3.png" width="600" />
 </p>
 
-C'est bel et bien le fleuve Snoqualmie ! Nous avons la confirmation par son nom qui est affiché dessus, et de par l'identification des éléments présents sur l'image source, à savoir :
+C'est bel et bien le fleuve Snoqualmie ! Nous avons la confirmation par son nom qui est affiché dessus, et de par l'identification des éléments présents sur l'image source, qui étaient :
 
-- Un grand "M" arrondi bien spécial  
-- Un petit pont  
-- Une délimitation rectangulaire de terres agricoles
+- Une triple courbe formant comme un "M" s'il est pris à ~65° degrès plus à l'est.  
+- Une délimitation rectangulaire de terres agricoles.  
+- Un petit pont.
 
 Nous pouvons aussi pour l'extra, mesurer la distance entre Seattle et la prise de vue de la photo de l'image source ;
 
