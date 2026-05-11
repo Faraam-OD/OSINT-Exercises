@@ -33,12 +33,12 @@ Première chose à faire ici, bien entendu, c'est une recherche par image invers
 
 Deux résultats ont retenu mon attention. Les voici :
 
-**1ère source:**  
+<center><strong>1ère source:</strong></center>
 <p align="center">
     <img src="assets/step 1 - reverse image search.png" width="600" />
 </p>
 
-**2ème source:**
+<center><strong>2ème source:</strong></center>
 <p align="center">
     <img src="assets/step 1 - reverse image search2.png" width="600" />
 </p>
