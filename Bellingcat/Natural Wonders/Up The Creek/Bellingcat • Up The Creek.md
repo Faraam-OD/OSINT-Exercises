@@ -91,7 +91,7 @@ Allons donc regarder sur Google Earth, vers Seattle, s'il y a un certain fleuve 
 
 C'est bel et bien le fleuve Snoqualmie ! Nous avons la confirmation par son nom qui est affiché dessus, et de par l'identification des éléments présents sur l'image source, qui étaient :
 
-- Une triple courbe formant comme un "M" s'il est pris à ~65° degrès plus à l'est.  
+- Une triple courbe formant comme un "M" s'il est pris à ~65° degrès plus à l'est (~40° degrès dans la capture faite ci-dessus).  
 - Des délimitations rectangulaires de terres agricoles.  
 - Un petit pont.
 
