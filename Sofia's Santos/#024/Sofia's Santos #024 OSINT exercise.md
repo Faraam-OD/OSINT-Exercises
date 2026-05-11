@@ -36,7 +36,7 @@ To begin with, the first thing that comes to mind are the patterns that are visi
 ## Photo 1
 
 <p align="center">
-    <img src="assets/Photo 1/Step 1 - [photo 1] Identifying features.png" width="600" />
+    <img src="assets/Photo 1/Step 1 - Identifying features.png" width="600" />
 </p>
 
 In this first photo, the identifying features are as follows: 
@@ -48,16 +48,16 @@ In this first photo, the identifying features are as follows:
 So, the first places I'm leaning towards are either **South America** (Colombia, Venezuela, Brazil) or **Southeast Asia** (Cambodia, Vietnam, Indonesia). What we are going to do now is perform a **reverse image search**. We will see if Google recognizes certain patterns and if it can lead us to more information. To do this, I'll just go to Google Images and upload the photo.
 
 <p align="center">
-    <img src="assets/Photo 1/Step 2 - [photo 1] Google image research.png" />
+    <img src="assets/Photo 1/Step 2 - Google image research.png" />
 </p>
 
 **Now let's see the results.**
 
 <p align="center">
-    <img src="assets/Photo 1/Step 3 - [photo 1] Images results.png" />
+    <img src="assets/Photo 1/Step 3 - Images results.png" />
 </p>
 <p align="center">
-    <img src="assets/Photo 1/Step 3 - [photo 1] Images results2.png" />
+    <img src="assets/Photo 1/Step 3 - Images results2.png" />
 </p>
 
 Okay, that's some interesting information we have there.
