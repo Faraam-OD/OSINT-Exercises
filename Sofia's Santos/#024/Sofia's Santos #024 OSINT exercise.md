@@ -163,7 +163,7 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 ## Photo 3
 
 <p align="center">
-    <img src="assets/Photo 3/Step 1 - [photo 3] Identifying features.png" width="600" />
+    <img src="assets/Photo 3/Step 1 - Identifying features.png" width="600" />
 </p>
 
 In searching for this third and final photo, here are the identifying features we can note:
@@ -175,13 +175,13 @@ For the moment, these clues suggest that this is an Islamist group, as these are
 As usual, we will first perform a reverse image search.
 
 <p align="center">
-    <img src="assets/Photo 3/Step 2 - [photo 3] Google image research.png" />
+    <img src="assets/Photo 3/Step 2 - Google image research.png" />
 </p>
 
 **Now let's see the results.**
 
 <p align="center">
-    <img src="assets/Photo 3/Step 3 - [photo 3] Images results.png" />
+    <img src="assets/Photo 3/Step 3 - Images results.png" />
 </p>
 
 As I imagined, given the lack of notable details, and the only relevant one we have being this flag, due to the poor quality of the image and the tiny size of the flag, we have no conclusive results.
@@ -191,7 +191,7 @@ I looked through the sources that came up in this reverse image search, and none
 And here's what I found when I typed "**black flag with white triangle terrorists**" into Google's search bar:
 
 <p align="center">
-    <img src="assets/Photo 3/Step 3 - [photo 3] Images results2.png" />
+    <img src="assets/Photo 3/Step 3 - Images results2.png" />
 </p>
 
 The first image closely resembles the characteristics of the flag in our photo. The title of the post containing this image is "**Flag of ‘Jaish ul-Adl’ (Army of Justice), a Jihadist Terrorist Group in Iran.**"
@@ -199,13 +199,13 @@ The first image closely resembles the characteristics of the flag in our photo. 
 When I searched for "**Jaish ul-Adl**" on Google, I came across various results showing the same flag from different angles.
 
 <p align="center">
-    <img src="assets/Photo 3/Step 3 - [Photo 3] Images results3.png" />
+    <img src="assets/Photo 3/Step 3 - Images results3.png" />
 </p>
 
 Taking the following source from our search results: [AFINTL](https://www.afintl.com/en/202312180655) (Afghanistan International)
 
 <p align="center">
-    <img src="assets/Photo 3/Step 4 - [photo 3] AFINTL info source.png" />
+    <img src="assets/Photo 3/Step 4 - AFINTL info source.png" />
 </p>
 
 The article tells us that **Jaish ul-Adl**, or "**Army of Justice**," is a **Sunni Islamist group opposed to the Islamic Republic of Iran**. It presents itself as the defender of Sunni rights, particularly in the Iranian province of Sistan and Baluchistan, where this minority denounces discrimination. The group, responsible for deadly attacks such as the one against a police station in Rask in December 2023 (12 Iranian police officers killed), is accused by Tehran of operating from bases in Pakistan and even Afghanistan, with the support of the Taliban.
