@@ -9,7 +9,7 @@ The photo is not of the event described by the journalist.
 **a) Verify the statement above.**
 
 <p align="center">
-    <img src="assets/#006/Step 0 - image source.png" width="600" />
+    <img src="assets/Step 0 - image source.png" width="600" />
 </p>
 
 We therefore need to verify the veracity of this tweet.
