@@ -71,7 +71,7 @@ We will collect information for our survey from two different sources. These wil
 ### From The Guardian – December 12, 2025
 
 <p align="center">
-    <img src="assets/Photo 1/The Guardian/Step 4 - [photo 1] 1st source The Guardian.png" />
+    <img src="assets/Photo 1/The Guardian/Step 4 - 1st source The Guardian.png" />
 </p>
 
 The ELN (Ejército de Liberación Nacional) is the **oldest guerrilla group still active in the Americas**, with around **5,800 fighters** and a presence in more than a **fifth of Colombia's municipalities**. Claiming to espouse a **left-wing nationalist ideology**, it is nevertheless deeply involved in **drug trafficking** and the control of **coca plantations**. Despite five attempts at peace negotiations with successive governments—all of which have failed—the group continues to intensify its armed operations, including in response to threats of US intervention made by Trump in early 2025.
@@ -81,7 +81,7 @@ The Guardian points out that the ELN has been able to adapt to military and poli
 ### From RFI/AFP – November 16, 2023
 
 <p align="center">
-    <img src="assets/Photo 1/RFI-AFP/Step 4 - [photo 1] 2nd source RFI AFP.png" />
+    <img src="assets/Photo 1/RFI-AFP/Step 4 - 2nd source RFI AFP.png" />
 </p>
 
 The ELN is a **decentralized organization**, composed mainly of **Afro-Colombian** and **indigenous members**, whose stated goal is to establish a “**democratic government for the people**” — with nationalization of industries and redistribution of land. Founded in **1964**, the group is now the last of its generation still active after the demobilization of the **FARC** (Revolutionary Armed Forces of Colombia) in 2016. Despite a ceasefire agreement with the Petro government, violations of the truce have been documented, and financing through kidnappings remains a reality that the organization struggles to completely deny.
@@ -95,7 +95,7 @@ So, to summarize here, the key points to remember regarding the exercise: ***"Yo
 ## Photo 2
 
 <p align="center">
-    <img src="assets/Photo 2/Step 1 - [photo 2] Identifying features.png" width="600" />
+    <img src="assets/Photo 2/Step 1 - Identifying features.png" width="600" />
 </p>
 
 In this second photo, the elements that can be identified are as follows:
@@ -108,13 +108,13 @@ The first thought that comes to mind, based on the few details available, is tha
 To begin with, we will once again perform a reverse image search.
 
 <p align="center">
-    <img src="assets/Photo 2/Step 2 - [photo 2] Google image research.png" />
+    <img src="assets/Photo 2/Step 2 - Google image research.png" />
 </p>
 
 **Now let's see the results.**
 
 <p align="center">
-    <img src="assets/Photo 2/Step 3 - [photo 2] Images results.png" />
+    <img src="assets/Photo 2/Step 3 - Images results.png" />
 </p>
 
 Here, we have few results. The rest of the sources presented to us have no connection with the image we have.
@@ -122,16 +122,16 @@ Here, we have few results. The rest of the sources presented to us have no conne
 When we open the first [ANF News](https://anfenglishmobile.com/kurdIstan/zap-ta-yja-star-eylemi-1-isgalci-cezalandirildi-197446) source, we find an article entitled: "**YJA Star action in Zap: 1 occupier punished**" with the following description : "*HPG Press Liaison Center (HPG-BİM) announced that an invader was punished in the action organized by YJA Star against the Turkish army in the Western Zap region.*". This article presents the "*written statement by the HPG-BİM, which provides details on the actions carried out by the guerrillas and the attacks perpetrated by the invaders.*". But let's not get too far ahead of ourselves just yet. The first thing to remember is the unknown variable in the title: **YJA Star**.
 
 <p align="center">
-    <img src="assets/Photo 2/Step 4 - [photo 2] ANF info source.png" />
+    <img src="assets/Photo 2/Step 4 - ANF info source.png" />
 </p>
 
 After a quick search on what **YJA Star** is, I came across the Wikipedia page explaining what this acronym stands for in English, namely **Free Women's Units**.
 
 <p align="center">
-    <img src="assets/Photo 2/Step 5 - [photo 2] YJA Star research.png" />
+    <img src="assets/Photo 2/Step 5 - YJA Star research.png" />
 </p>
 <p align="center">
-    <img src="assets/Photo 2/Step 6 - [photo 2] YJA Star Wikipedia's page.png" />
+    <img src="assets/Photo 2/Step 6 - YJA Star Wikipedia's page.png" />
 </p>
 
 As we can read on the introduction page, YJA STAR "was" the **female armed wing of the Kurdistan Workers' Party (PKK)**. Their feminist and socialist ideology confirms their desire for women's emancipation, which is manifested by their long hair, considered a sign of non-submission.
@@ -139,7 +139,7 @@ As we can read on the introduction page, YJA STAR "was" the **female armed wing 
 However, we do not find on this Wikipedia page the exact logo that we see on the weapon's coating in the source image. To do this, let's dig a little deeper into what the PKK is, since YJA STAR is linked to this group. By clicking on the hyperlink "**Kurdistan Workers' Party**" in the second line, we are taken to the PKK's Wikipedia page. We should have more information and details about this logo.
 
 <p align="center">
-    <img src="assets/Photo 2/Step 7 - [photo 2] Kurdistan Workers' Party Wikipedia's page.png" />
+    <img src="assets/Photo 2/Step 7 - Kurdistan Workers' Party Wikipedia's page.png" />
 </p>
 
 First, we can see the group's flag, which looks identical to the logo on the weapon's coating in the source image. It is now necessary to explain what the PKK is, its ideologies and objectives, and the link between YJA STAR and the PKK.
@@ -151,7 +151,7 @@ Its objectives remain rooted in the political and cultural rights of Kurds, part
 Linked to the PKK is YJA Star, an all-female guerrilla force operating within the broader PKK structure. Formed in the 2000s, YJA Star embodies the movement's strong emphasis on women's liberation, with female fighters playing prominent combat and leadership roles. In practice, YJA Star functions as the women's military wing aligned with the PKK's command and ideology, reflecting the group's belief that Kurdish liberation and women's emancipation are inseparable.
 
 <p align="center">
-    <img src="assets/Photo 2/Step 8 - [photo 2] PKK Women's armed wing.png" width="800" />
+    <img src="assets/Photo 2/Step 8 - PKK Women's armed wing.png" width="800" />
 </p>
 
 ### Conclusion Photo 2
