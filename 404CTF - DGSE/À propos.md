@@ -12,7 +12,7 @@ J'ai réalisé 8 challenges sur les 16 présents dans la catégorie, à savoir l
 - Canular savant (2/3)  
 - Papioutai
 
-J'ai terminé **519e sur 2008 participants**, toutes catégories confondu.
+J'ai terminé **520e sur 2016 participants**, toutes catégories confondu.
 
 Il sera présenté dans ce répo, les writes-ups des challenges que j'ai trouvé les plus intéressants, à savoir ;
 - Chaud Devant,  
